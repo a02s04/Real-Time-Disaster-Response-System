@@ -1,0 +1,13 @@
+tensorflow
+tensorflow-hub
+keras
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+opencv-python
+nltk
+transformers
+wordcloud
+certifi
