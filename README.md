@@ -16,7 +16,7 @@ This component is intended to be integrated later into a full disaster response 
 
 ## 🧠 What’s Inside
 
-- `disaster_classifier.ipynb`: The full notebook with data preprocessing, model training, and evaluation.
+- `Real-Time Disaster Response System.ipynb`: The full notebook with data preprocessing, model training, and evaluation.
 - `disaster_dataset.csv`: Dataset used for training and testing.
 - `requirements.txt`: Python dependencies.
 
