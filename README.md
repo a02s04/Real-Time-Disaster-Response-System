@@ -17,8 +17,18 @@ This component is intended to be integrated later into a full disaster response 
 ## 🧠 What’s Inside
 
 - `Real-Time Disaster Response System.ipynb`: The full notebook with data preprocessing, model training, and evaluation.
-- `disaster_dataset.csv`: Dataset used for training and testing.
-- `requirements.txt`: Python dependencies.
+- `train.csv`: CSV file listing image paths and their corresponding labels (used for training).
+- `test.csv`: CSV file for validation/testing.
+- `requirements.txt`: Python dependencies used in this project.
+- `README.md`: You’re reading it!
+
+---
+
+##  📊 About Dataset
+1. Images are collected from Google, it may be noisy and different resolutions, therefore, preprocessing is recommended.
+2. Please remove irrelevant image if necessary
+3. Number of image samples in each class is different which may result biased model. Select images according to your application.
+4. I tried to remove duplicate images, still there may be some. Delete those images before training the model.
 
 ---
 
