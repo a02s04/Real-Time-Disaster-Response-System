@@ -34,11 +34,16 @@ This component is intended to be integrated later into a full disaster response 
 
 ## ⚙️ Technologies Used
 
-- Python
+- TensorFlow + Keras
+- TensorFlow Hub
+- Transformers (HuggingFace)
+- OpenCV
 - Pandas, NumPy
 - Scikit-learn
-- Matplotlib / Seaborn
-- Jupyter Notebook
+- Matplotlib, Seaborn
+- NLTK
+- WordCloud
+
 
 ---
 
@@ -48,3 +53,4 @@ This component is intended to be integrated later into a full disaster response 
 ```bash
 git clone https://github.com/your-username/real-time-disaster-ml.git
 cd real-time-disaster-ml
+
