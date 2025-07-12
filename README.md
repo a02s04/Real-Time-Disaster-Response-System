@@ -1,6 +1,10 @@
-# 🔍 Real-Time Disaster Response System (ML Model)
+# 🌍 Real-Time Disaster Response System (ML/NLP + CV)
 
-This project is part of a larger real-time disaster response system. It focuses on the **machine learning component** that classifies the type or severity of a natural disaster based on input features like rainfall, magnitude, temperature, and more.
+A machine learning–powered system that enhances disaster response capabilities by analyzing both **social media text** and **satellite imagery**.
+
+This project combines:
+- 🧠 **Natural Language Processing (NLP)** to classify tweets as disaster-related or not using transformer-based or traditional text classification models.
+- 🛰️ **Deep Learning (CNN)** to predict or identify disaster occurrences (like floods or fires) from satellite images.
 
 ---
 
